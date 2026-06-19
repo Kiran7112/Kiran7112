@@ -113,15 +113,3 @@ I build **AI-native applications, distributed systems, cloud-native platforms, m
 # 🎯 Areas of Expertise
 
 AI Engineering • Agentic AI • Software Engineering • Full-Stack Development • Backend Engineering • Cloud Engineering • DevOps • Platform Engineering • Distributed Systems • System Design • MLOps • Kubernetes • AWS
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Kiran7112\&theme=tokyonight\&hide_border=true\&include_all_commits=true)
-
-![](https://streak-stats.demolab.com?user=Kiran7112\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran7112\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-![](https://komarev.com/ghpvc/?username=Kiran7112\&color=blueviolet\&style=flat-square)
