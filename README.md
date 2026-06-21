@@ -18,7 +18,6 @@ I build **AI-native applications, distributed systems, cloud-native platforms, m
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/maddireddy-kiran/)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github\&logoColor=white)](https://github.com/Kiran7112)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:maddireddykirankumar7112@gmail.com)
 
 # 💻 Tech Stack
